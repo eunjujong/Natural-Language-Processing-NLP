@@ -4,7 +4,7 @@
 
 - Company URL Evaluation and Classification:
 
-We extract keywords from 3 reputative websites for each of the Healthcare, Education, Environment industries to classify the companies. We also include 3 general news websites to generate keywords for the "Other Sector". 
+I extract keywords from 3 reputative websites for each of the Healthcare, Education, Environment industries to classify the companies. We also include 3 general news websites to generate keywords for the "Other Sector". 
 
 - Strategy: 
 
