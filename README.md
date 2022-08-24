@@ -8,7 +8,7 @@ I extract keywords from 3 reputative websites for each of the Healthcare, Educat
 
 - Strategy: 
 
-The classification of the company urls is based on the TF-IDF (term frequency-inverse document frequency) scores measured from three reputative websites from each sector. We use the TfidfTransformer function from the from sklearn.feature_extraction.text package to calculate the TF-IDF scores. 
+The classification of the company urls is based on the TF-IDF (term frequency-inverse document frequency) scores measured from three reputative websites from each sector. I use the TfidfTransformer function from the from sklearn.feature_extraction.text package to calculate the TF-IDF scores. 
 
 1) Healthcare:
 - https://www.nlm.nih.gov/
